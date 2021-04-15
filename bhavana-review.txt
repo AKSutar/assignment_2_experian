@@ -1,0 +1,5 @@
+responsiveness
+class hrline - border buttom
+in mobile size - all sub menu should be inside the hamburger menu
+font size
+card header color only for mobile view

@@ -74,9 +74,8 @@ nav ul li a {
 /* Nav bar end */
 
 .hrline {
-    width: 100%;
     color: rgb(34, 19, 34);
-    height: 30%;
+    border-bottom: 5px;
 }
 
 /* Stats */
@@ -116,7 +115,6 @@ input {
     flex-wrap: wrap;
     justify-content: center;
     padding: 10px 20px;
-    padding-right: 50px;
 }
 
 .btn {
@@ -187,6 +185,7 @@ section div p {
 
 /*Cards start*/
 .card {
+    height: 250px;
     background: #fff;
     border: 1.5px solid #000;
     border-radius: 5px;
